@@ -1,10 +1,12 @@
-Netflix Clone 🎬
+**Netflix Clone** 🎬
+
+**Live Demo** : https://react-netflixclone.vercel.app/
 
 A responsive Netflix clone built using ReactJS and Firebase, showcasing seamless UI/UX, dynamic data handling, and modern web development techniques.
 
-Features
+**Features**
 
-    •	🔐 User Authentication: Firebase for secure and efficient user login/signup.
+ •	🔐 User Authentication: Firebase for secure and efficient user login/signup.
     •	📽️ Dynamic Movie Data: Integrated The Movie Database (TMDB) API to fetch movie details.
     •	🎞️ Movie Player: Play trailers directly with video integration based on movie IDs.
     •	🖥️ Responsive Design: Optimized layout for desktops, tablets, and mobiles.
@@ -24,6 +26,8 @@ Features
             /Home
             /Player
         /assets
+
+   
 
 • Each component/page includes .jsx and .css files for easy customization and maintenance.
 
@@ -50,4 +54,4 @@ Features
 
         npm run dev
 
-    Live Demo
+    
